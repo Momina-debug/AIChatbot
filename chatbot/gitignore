@@ -1,0 +1,7 @@
+# Ignore the file containing the API Key
+App.config
+
+# Ignore build folders
+bin/
+obj/
+.vs/
